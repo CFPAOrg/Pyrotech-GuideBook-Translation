@@ -1,0 +1,20 @@
+{
+  "name": "Soaking Pot",
+  "icon": "pyrotech:soaking_pot",
+  "category": "innovate_soaking",
+  "advancement": "pyrotech:stone_machines",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "pyrotech:tech/basic/soaking_pot",
+      "text": "To use, place fluid and ingredients in the top.$(p)$(warning) A $(item)Soaking Pot$() will break when filled with hot fluids, such as lava."
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "innovate/stone_brick",
+        "innovate/wood_boards"
+      ]
+    }
+  ]
+}

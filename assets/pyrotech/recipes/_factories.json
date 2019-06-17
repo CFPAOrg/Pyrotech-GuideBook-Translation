@@ -1,0 +1,11 @@
+{
+  "conditions": {
+    "modules_enabled": "com.codetaylor.mc.pyrotech.ModPyrotechConfig$ConditionConfig"
+  },
+  "ingredients": {
+    "fluid": "com.codetaylor.mc.athenaeum.recipe.IngredientFluidStack$Factory"
+  },
+  "recipes": {
+    "leather_fire_protection": "com.codetaylor.mc.pyrotech.modules.core.recipe.LeatherArmorFireProtectionRecipe$Factory"
+  }
+}

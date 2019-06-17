@@ -1,0 +1,45 @@
+{
+  "name": "石块",
+  "icon": "pyrotech:rock:0",
+  "category": "survive",
+  "pages": [
+    {
+      "type": "image",
+      "border": true,
+      "images": [
+        "pyrotech:textures/gui/book/photo/rock_00.png"
+      ]
+    },
+    {
+      "type": "rt_anvil_recipe",
+      "recipe": "pyrotech:cobblestone_to_rocks",
+      "text": "$(item)石块$()能在大多数的地面上被发现。$(p)$(item)石块$()也会在使用低端工具时出现。$(p)而且他们还可以用$(item)砧台$()制作。"
+    },
+    {
+      "type": "rrr_anvil_recipe",
+      "recipe": "pyrotech:cobbled_andesite_to_rocks",
+      "recipe2": "pyrotech:cobbled_diorite_to_rocks",
+      "recipe3": "pyrotech:cobbled_granite_to_rocks"
+    },
+    {
+      "type": "text",
+      "text": "如果你发现你遭到了细节 - $(italic)一种侵略性的，暴力的或者有害的行为$() - 选择记住以下几点会比较明智：$(p)$(info) 丢$(item)石块$()可以被认为是一种侵略性的，暴力的或者有害的行为。$(p)$(info) 放下$(item)石块$()来装饰小路可不是一种侵略性的，暴力的或者有害的行为。"
+    },
+    {
+      "type": "rt_anvil_recipe",
+      "anchor": "limestone",
+      "recipe": "pyrotech:cobbled_limestone_to_rocks",
+      "text": "$(item)石灰岩块$()可以用$(item)砧台$()制作，还可以在使用低端工具挖掘$(item)石灰岩$()时掉落。"
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "adapt/anvil_granite",
+        "adapt/tools_hammers",
+        "bloom/anvil_ironclad",
+        "gather/stone_cobbled",
+        "gather/limestone"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Drying Rack",
+  "icon": "pyrotech:drying_rack:1",
+  "category": "adapt",
+  "advancement": "pyrotech:worktable",
+  "pages": [
+    {
+    "type": "text",
+      "text": "The $(item)Crude Drying Rack$() and $(item)Drying Rack$() can be used to dry or store items.$(p)$(info) Both racks will benefit from being placed near a $(item)Campfire$() and will be at a disadvantage when it is raining."
+    },
+    {
+      "type": "crafting",
+      "recipe": "pyrotech:tech/basic/drying_rack_crude",
+      "text": "A $(item)Crude Drying Rack$() can be made by tying some $(item)Sticks$() together with $(item)Plant Fibers$().$(p)$(info) A $(item)Crude Drying Rack$() can also be used to store a single item."
+    },
+    {
+      "type": "crafting",
+      "recipe2": "pyrotech:tech/basic/drying_rack",
+      "text": "A sturdier, less crude $(item)Drying Rack$() can be made by lashing $(item)Sticks$() together with $(item)Twine$().$(p)$(info) A $(item)Drying Rack$() can be used to store four items."
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "survive/introduction",
+        "adapt/twine",
+        "gather/plant_fibers",
+        "gather/sticks"
+      ]
+    }
+  ]
+}
