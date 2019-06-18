@@ -1,5 +1,5 @@
 {
-  "name": "Wood Chips",
+  "name": "木屑堆",
   "icon": "pyrotech:rock:7",
   "category": "gather",
   "advancement": "pyrotech:chopping_block",
@@ -8,7 +8,7 @@
       "type": "spotlight",
       "item": "pyrotech:rock:7",
       "link_recipe": true,
-      "text": "$(item)Wood Chips$() are a byproduct of chopping on a $(item)Chopping Block$() and sawing wood in a $(thing)Sawmill$()."
+      "text": "$(item)木屑堆$()是使用$(item)砧板$()和$(thing)锯木机$()的副产物。"
     },
     {
       "type": "relations",

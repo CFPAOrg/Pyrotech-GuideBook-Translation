@@ -1,5 +1,5 @@
 {
-  "name": "Plant Fibers",
+  "name": "植物纤维",
   "icon": "pyrotech:material:12",
   "category": "gather",
   "pages": [
@@ -11,7 +11,7 @@
     {
       "type": "spotlight",
       "item": "pyrotech:material:12",
-      "text": "$(item)Plant Fibers$() can be found by breaking tall grass.$(p)$(item)Plant Fibers$() can also be crafted."
+      "text": "$(item)植物纤维$()在破坏高草丛是掉落。$(p)$(item)植物纤维$()也可以被制作。"
     },
     {
       "type": "relations",

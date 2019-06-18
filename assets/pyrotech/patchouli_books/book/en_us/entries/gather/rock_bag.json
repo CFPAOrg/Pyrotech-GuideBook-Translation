@@ -1,5 +1,5 @@
 {
-  "name": "Rock Bag",
+  "name": "采石包",
   "icon": "pyrotech:bag_simple",
   "category": "gather",
   "advancement": "pyrotech:worktable",
@@ -11,7 +11,7 @@
     },
     {
       "type": "text",
-      "text": "A $(item)Rock Bag$() can hold a large quantity of $(thing)Rocks$().$(p)A $(item)Durable Rock Bag$() can hold a large quantity of $(thing)Cobbled Stone$()."
+      "text": "$(item)采石包$()可以存储大量的$(thing)石块$()。$(p)$(item)耐用采石包$()可以存储大量的$(thing)碎石头$()。"
     },
     {
       "type": "image",
@@ -22,7 +22,7 @@
     {
       "type": "text",
       "title": "In the World",
-      "text": "$(info) When placed in the world, bags can be opened and closed with $(use).$(p)$(info) When the bag is open, items can be manually added and removed from the top.$(p)$(info) Items can be extracted from the bottom."
+      "text": "$(info) 当放置在世界中时，背包可以使用$(use)来打开和关闭。$(p)$(info) 背包打开时，你可以手动取出和存放物品。$(p)$(info) 物品可以在底部被提取（如漏斗）。"
     },
     {
       "type": "text",

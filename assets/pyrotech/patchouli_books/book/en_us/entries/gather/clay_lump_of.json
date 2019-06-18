@@ -1,5 +1,5 @@
 {
-  "name": "Clay, Lump of",
+  "name": "粘土块",
   "icon": "pyrotech:material:17",
   "category": "gather",
   "advancement": "pyrotech:tools_crude",
@@ -8,7 +8,7 @@
       "type": "spotlight",
       "link_recipe": true,
       "item": "pyrotech:material:17",
-      "text": "$(item)Lumps of Clay$() can be harvested from clay found in the world or crafted from a larger $(item)Clay Ball$()."
+      "text": "$(item)粘土块$()可以从世界生成的粘土和$(item)粘土$()获取。"
     },
     {
       "type": "crafting",

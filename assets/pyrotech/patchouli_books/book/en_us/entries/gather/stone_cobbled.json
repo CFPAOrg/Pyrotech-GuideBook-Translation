@@ -1,11 +1,11 @@
 {
-  "name": "Stone, Cobbled",
+  "name": "破碎的石头",
   "icon": "minecraft:cobblestone",
   "category": "gather",
   "pages": [
     {
       "type": "text",
-      "text": "$(item)Cobbled Stone$() can almost always be found by mining its stone complement with, at minimum, an iron pickaxe.$(p)$(info) $(item)Cobbled Stone$() may also be occasionally found by mining with at a stone, flint, or bone pickaxe.$(p)$(info) $(item)Cobbled Stone$() can also be crafted from $(item)Rocks$()."
+      "text": "$(item)碎石头$()在挖矿时非常常见，但是你至少得是铁镐。$(p)$(info) $(item)碎石头$()偶尔会在使用燧石镐和骨镐时掉落。$(p)$(info) $(item)碎石头$()也可以用$(item)石块$()制作。"
     },
     {
       "type": "image",
