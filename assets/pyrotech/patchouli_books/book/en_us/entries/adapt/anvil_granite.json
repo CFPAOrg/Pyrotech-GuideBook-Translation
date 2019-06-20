@@ -1,5 +1,5 @@
 {
-  "name": "Anvil, Granite",
+  "name": "花岗岩砧",
   "icon": "pyrotech:anvil_granite",
   "category": "adapt",
   "advancement": "pyrotech:stone",
@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/basic/anvil_granite",
-      "text": "A $(item)Granite Anvil$() will allow you to work with stone.$(p)To use, place the input on top and $(use) with a pickaxe or hammer."
+      "text": "$(item)花岗岩砧$()能让你对石头进行一些加工。$(p)使用时，把原料放在上面用稿子或锤子$(use)。"
     },
     {
       "type": "image",
