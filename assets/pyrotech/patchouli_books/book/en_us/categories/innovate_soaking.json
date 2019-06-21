@@ -1,6 +1,6 @@
 {
-  "name": "Soaking",
-  "description": "The successful manipulation of fluids, and the items soaked in those fluids, is vital to survival.",
+  "name": "浸泡",
+  "description": "液体的成功应用 - 泡在液体中的物品对生存至关重要。",
   "icon": "pyrotech:soaking_pot",
   "parent": "innovate",
   "sortnum": 4

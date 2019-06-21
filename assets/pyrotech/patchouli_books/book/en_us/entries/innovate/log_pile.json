@@ -1,5 +1,5 @@
 {
-  "name": "Log Pile",
+  "name": "柴堆",
   "icon": "pyrotech:log_pile",
   "category": "innovate_pit_burn",
   "advancement": "pyrotech:flint_and_tinder",
@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:log_pile",
-      "text": "A $(item)Log Pile$() can be burned in a $(thing)Pit Burn$() to produce $(item)Charcoal$()."
+      "text": "$(item)柴堆$()能在$(thing)炭窑$()中生产$(item)木炭$()。"
     },
     {
       "type": "relations",

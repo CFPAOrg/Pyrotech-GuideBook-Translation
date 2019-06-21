@@ -1,5 +1,5 @@
 {
-  "name": "Combustion Machines",
+  "name": "燃烧类机器",
   "icon": "pyrotech:textures/gui/book/icon/info.png",
   "category": "innovate_machines",
   "priority": true,
@@ -15,7 +15,7 @@
     {
       "type": "text",
       "title": "Usage",
-      "text": "To use a $(thing)Combustion Machine$(), place ingredients in the top, place fuel in the bottom, and light the opening in the bottom with a $(l:appendix/ignition)verified fire-starter device$().$(p)$(info) $(thing)Combustion Machines$() can be doused with a bucket of water to save fuel."
+      "text": "使用一个$(thing)燃烧类机器$()，将原料放在上方，将燃料放在底部，然后用$(l:appendix/ignition)点火装置$()点燃燃料。$(p)$(info) $(thing)燃烧类机器$()可以用水来节约燃料。（指浇灭后，不再继续燃烧）"
     },
     {
       "type": "text",

@@ -1,5 +1,5 @@
 {
-  "name": "Mechanical Hopper",
+  "name": "机械漏斗",
   "icon": "pyrotech:mechanical_hopper",
   "category": "innovate",
   "advancement": "pyrotech:granite_anvil",
@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/machine/mechanical_hopper",
-      "text": "A $(item)Mechanical Hopper$() transfers items from an inventory above it to one below or to the side.$(p)$(info) Each cog transfers a different number of items per work cycle."
+      "text": "$(item)机械漏斗$()将上方的物品转移到下方。$(p)$(info) 不同的齿轮在每一工作周期传输不同的数量的物品。"
     },
     {
       "type": "mechanical_hopper_cogs",

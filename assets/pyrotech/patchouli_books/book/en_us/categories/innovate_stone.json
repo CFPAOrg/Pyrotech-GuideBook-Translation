@@ -1,6 +1,6 @@
 {
-  "name": "Stone",
-  "description": "While stone is ubiquitous, as a material it is quite unremarkable - $(italic)a word which here means not particularly interesting or surprising$().",
+  "name": "石头",
+  "description": "虽然石头无处不在，但是作为材料却非常不起眼。",
   "icon": "pyrotech:material:16",
   "parent": "innovate",
   "sortnum": 1

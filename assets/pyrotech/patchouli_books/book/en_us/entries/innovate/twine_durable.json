@@ -1,5 +1,5 @@
 {
-  "name": "Twine, Durable",
+  "name": "耐用麻线",
   "icon": "pyrotech:material:26",
   "category": "innovate_soaking",
   "advancement": "pyrotech:stone_brick",
@@ -8,7 +8,7 @@
       "type": "rt_soaking_pot_recipe",
       "header": true,
       "recipe": "pyrotech:twine_durable",
-      "text": "Soaking $(item)Twine$() in $(item)Wood Tar$() will make it more durable."
+      "text": "把$(item)麻线$()泡在$(item)木焦油$()中能让它更耐用。"
     },
     {
       "type": "relations",

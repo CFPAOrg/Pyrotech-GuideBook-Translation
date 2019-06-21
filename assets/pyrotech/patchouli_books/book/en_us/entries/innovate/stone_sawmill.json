@@ -1,5 +1,5 @@
 {
-  "name": "Stone Sawmill",
+  "name": "石切割机",
   "icon": "pyrotech:stone_sawmill",
   "category": "innovate_machines",
   "advancement": "pyrotech:stone_brick",
@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/machine/stone_sawmill",
-      "text": "A $(item)Stone Sawmill$() performs the same tasks as a $(item)Chopping Block$(), but faster.$(p)$(info) $(thing)Sawmills$() produce $(item)Wood Chips$() during operation."
+      "text": "$(item)石切割机$()能做和$(item)砧板$()一样的工作，但更快。$(p)$(info) $(thing)切割机$()工作时能得到副产物$(item)木屑$()。"
     },
     {
       "type": "relations",

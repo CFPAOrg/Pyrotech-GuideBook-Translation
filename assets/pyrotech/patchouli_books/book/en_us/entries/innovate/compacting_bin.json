@@ -1,17 +1,17 @@
 {
-  "name": "Compacting Bin",
+  "name": "挤压桶",
   "icon": "pyrotech:compacting_bin",
   "category": "innovate",
   "advancement": "pyrotech:pit_kiln",
   "pages": [
     {
       "type": "text",
-      "text": "To use, place ingredients in the top and $(use) with a $(thing)Shovel$().$(p)$(warning) Using may cause hunger. If it isn't working, you might be too hungry."
+      "text": "使用时，将原料放在上方，用$(thing)铲子$()$(use)。$(p)$(warning) 使用会导致饥饿，如果不能使用了，你可能是饿了。"
     },
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/basic/compacting_bin",
-      "text": "$(info) Regarding automation, items can be inserted into the top and sides."
+      "text": "$(info) 关于自动化，物品可以从四面和上边导入。"
     },
     {
       "type": "relations",

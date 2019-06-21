@@ -1,5 +1,5 @@
 {
-  "name": "Bucket, Stone",
+  "name": "石桶",
   "icon": "pyrotech:bucket_stone",
   "category": "innovate_soaking",
   "advancement": "pyrotech:stone_brick",
@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:bucket/bucket_stone",
-      "text": "A $(item)Stone Bucket$() will last longer than a $(item)Wooden Bucket$() or $(item)Stone Bucket$().$(p)$(warning) A $(item)Stone Bucket$() will break with hot fluids, such as lava."
+      "text": "$(item)石桶$()会比$(item)木桶$()和$(item)粘土桶$()更耐用。$(p)$(warning) $(item)石桶$()遇热会坏掉。"
     },
     {
       "type": "relations",

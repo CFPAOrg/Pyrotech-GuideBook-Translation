@@ -1,5 +1,5 @@
 {
-  "name": "Storage, Durable",
+  "name": "更多存储",
   "icon": "pyrotech:crate_stone",
   "category": "innovate",
   "advancement": "pyrotech:stone_brick",
@@ -7,17 +7,17 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:storage/crate_durable",
-      "text": "A $(item)Durable Crate$() can hold more items than its less durable counterpart."
+      "text": "$(item)耐用储物箱$()能比$(item)储物箱$()存的更多。$(p)$(italic)译者：这页就是让我在复读$(l:gather/storage)存储$()$(italic)嘛！"
     },
     {
       "type": "crafting",
       "recipe": "pyrotech:storage/shelf_durable",
-      "text": "A $(item)Durable Shelf$() can hold more items than its less durable counterpart.$(p)$(info) A $(item)Durable Shelf$() can be placed in either a forward or back position."
+      "text": "$(item)耐用架子$()能比$(item)架子$()存的更多。$(p)$(info) $(item)耐用架子$()可以放得靠前一个，也可以靠后一点。"
     },
     {
       "type": "crafting",
       "recipe": "pyrotech:storage/stash_durable",
-      "text": "A $(item)Durable Stash$() can hold more items than its less durable counterpart."
+      "text": "$(item)耐用储物盒$()能比$(item)储物盒$()存的更多。"
     },
     {
       "type": "relations",
