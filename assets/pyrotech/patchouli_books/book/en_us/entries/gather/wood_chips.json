@@ -8,7 +8,7 @@
       "type": "spotlight",
       "item": "pyrotech:rock:7",
       "link_recipe": true,
-      "text": "$(item)木屑堆$()是使用$(item)砧板$()和$(thing)锯木机$()的副产物。"
+      "text": "$(item)木屑堆$()是使用$(item)砧板$()和$(thing)切割机$()的副产物。"
     },
     {
       "type": "relations",

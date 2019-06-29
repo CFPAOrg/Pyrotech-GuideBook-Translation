@@ -41,7 +41,7 @@
     {
       "type": "tooltip",
       "tooltip": [
-        "Granite Anvil Recipe"
+        "花岗岩砧"
       ],
       "x": 56, "y": 17,
       "u": 65, "v": 27,
@@ -51,7 +51,7 @@
     {
       "type": "tooltip",
       "tooltip": [
-        "Ironclad Anvil Recipe"
+        "复合砧"
       ],
       "x": 56, "y": 17,
       "u": 65, "v": 27,
@@ -67,7 +67,7 @@
     },
     {
       "type": "tooltip",
-      "tooltip": ["Pickaxe Recipe"],
+      "tooltip": ["镐"],
       "x": 18, "y": 16,
       "width": 6, "height": 6,
       "guard": "#pickaxe->exists"
@@ -81,7 +81,7 @@
     },
     {
       "type": "tooltip",
-      "tooltip": ["Hammer Recipe"],
+      "tooltip": ["锤"],
       "x": 18, "y": 16,
       "width": 6, "height": 6,
       "guard": "#hammer->exists"
