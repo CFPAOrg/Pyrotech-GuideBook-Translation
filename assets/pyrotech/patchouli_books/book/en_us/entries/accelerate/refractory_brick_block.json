@@ -1,5 +1,5 @@
 {
-  "name": "Refractory Brick Block",
+  "name": "耐火砖块",
   "icon": "pyrotech:refractory_brick_block",
   "category": "accelerate",
   "advancement": "pyrotech:refractory_brick",
@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:refractory_brick_block",
-      "text": "$(item)Refractory Blocks$() are used in the construction of the $(item)Bloomery$(), $(thing)Refractory Machines$(), and enclosures for $(thing)Refractory Burning$()."
+      "text": "$(item)耐火砖块$()用于制作$(item)锻造炉$()，$(thing)耐火机器$()以及$(thing)耐火窑$()。"
     },
     {
       "type": "relations",

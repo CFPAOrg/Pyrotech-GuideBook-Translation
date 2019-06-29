@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "为了使用坑窑$(item)Pit Kiln$()你需要一个$(item)坑窑$()（废话，不知道作者想表达什么），一个$(item)稻草$()制成的$(item)稻草捆$()，三个$(thing)原木$()以及一个$(l:appendix/ignition)点火装置$()。$(p)两个$(item)干燥的植物纤维$()可以被绑在一起来做$(item)稻草$()。"
+      "text": "为了使用$(item)坑窑$()你需要一个$(item)坑窑$()（废话，不知道作者想表达什么），一个$(item)稻草$()制成的$(item)稻草捆$()，三个$(thing)原木$()以及一个$(l:appendix/ignition)点火装置$()。$(p)两个$(item)干燥的植物纤维$()可以被绑在一起来做$(item)稻草$()。"
     },
     {
       "type": "crafting",

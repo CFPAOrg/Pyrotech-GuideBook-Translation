@@ -1,12 +1,12 @@
 {
-  "name": "Igniters",
+  "name": "点火器",
   "icon": "pyrotech:igniter:0",
   "category": "accelerate",
   "advancement": "pyrotech:stone_machines",
   "pages": [
     {
       "type": "text",
-      "text": "An $(item)Igniter$() can be used to ignite something in front of it when supplied with a redstone signal.$(p)$(info) The $(item)Refractory Igniter$() is a valid $(thing)Refractory Block$()."
+      "text": "当接收到红石信号时，$(item)点火器$()会点燃它前方的物品。$(p)$(info) $(item)耐火砖点火器$()是一种$(thing)耐火方块$()。"
     },
     {
       "type": "crafting",
