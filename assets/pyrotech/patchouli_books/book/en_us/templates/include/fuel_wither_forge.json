@@ -6,7 +6,7 @@
     },
     {
       "type": "text",
-      "text": "$(bold)#fuel->iname#$()$(br)#modifier#% 效率",
+      "text": "$(bold)#fuel->iname#$()$(br)#modifier#% efficiency",
       "x": 30, "y": -2
     }
   ]

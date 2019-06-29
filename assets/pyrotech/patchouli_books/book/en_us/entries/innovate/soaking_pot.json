@@ -1,5 +1,5 @@
 {
-  "name": "浸泡壶",
+  "name": "Soaking Pot",
   "icon": "pyrotech:soaking_pot",
   "category": "innovate_soaking",
   "advancement": "pyrotech:stone_machines",
@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/basic/soaking_pot",
-      "text": "使用时，把液体和原料从顶部放入。$(p)$(warning) $(item)浸泡壶$()遇热会坏掉，比如岩浆。"
+      "text": "To use, place fluid and ingredients in the top.$(p)$(warning) A $(item)Soaking Pot$() will break when filled with hot fluids, such as lava."
     },
     {
       "type": "relations",

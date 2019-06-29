@@ -32,7 +32,7 @@
     {
       "type": "tooltip",
       "tooltip": [
-        "挤压桶"
+        "Compacting Bin Recipe"
       ],
       "x": 56, "y": 17,
       "u": 65, "v": 27,

@@ -1,12 +1,12 @@
 {
-  "name": "化石矿",
+  "name": "Ore, Fossil",
   "icon": "pyrotech:fossil_ore",
   "category": "gather",
   "pages": [
     {
       "type": "spotlight",
       "item": "pyrotech:fossil_ore",
-      "text": "$(item)化石矿$()几乎可以在任何地底找到。$(p)$(info) 它甚至可以用$(thing)粗制工具$()挖掘，但用更好的工具会有更好的结果。"
+      "text": "$(item)Fossil Ore$() can be found almost everywhere underground.$(p)$(info) It can be mined with $(thing)Crude Tools$(), but you will have better results with better tools."
     },
     {
       "type": "relations",

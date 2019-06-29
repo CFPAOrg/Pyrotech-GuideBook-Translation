@@ -1,5 +1,5 @@
 {
-  "name": "灰烬",
+  "name": "Ash",
   "icon": "pyrotech:material:0",
   "category": "gather",
   "advancement": "pyrotech:flint_and_tinder",
@@ -8,13 +8,13 @@
       "type": "spotlight",
       "item": "pyrotech:material:0",
       "link_recipe": true,
-      "text": "$(item)灰烬$()是$(item)篝火$()，$(thing)坑窑$()以及$(item)锻造炉$()的副产物。"
+      "text": "$(item)Ash$() is a byproduct of the $(item)Campfire$(), $(thing)Pit Burning$(), and the $(item)Bloomery$()."
     },
     {
       "type": "rt_compacting_bin_recipe",
       "header": true,
       "recipe": "pyrotech:ash_pile",
-      "text": "$(item)灰烬$()可以被$(thing)压$()成$(item)灰烬堆$()。"
+      "text": "$(item)Ash$() can be $(thing)Compacted$() into an $(item)Ash Pile$()."
     },
     {
       "type": "relations",

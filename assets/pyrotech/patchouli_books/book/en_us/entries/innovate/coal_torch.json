@@ -1,5 +1,5 @@
 {
-  "name": "石火炬",
+  "name": "Stone Torch",
   "icon": "pyrotech:torch_stone",
   "category": "innovate",
   "advancement": "pyrotech:stone_brick",
@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:ignition/torch_stone",
-      "text": "$(warning) $(item)石火炬$()会在雨中熄灭。$(p)$(info) $(item)石火炬$()随着时间流逝会自己熄灭。"
+      "text": "$(warning) A $(item)Stone Torch$() may go out in the rain.$(p)$(info) A $(item)Stone Torch$() will not burn up over time."
     },
     {
       "type": "relations",

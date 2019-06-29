@@ -1,5 +1,5 @@
 {
-  "name": "粗制钓竿",
+  "name": "Fishing Rod, Crude",
   "icon": "pyrotech:crude_fishing_rod",
   "category": "survive",
   "advancement": "pyrotech:dried_plant_fibers",
@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:tool/crude_fishing_rod",
-      "text": "$(info) 鱼咬钩的概率会随着耐久的降低而增加。"
+      "text": "$(info) The chance that a $(item)Crude Fishing Rod$() will break increases as its durability wanes."
     },
     {
       "type": "relations",

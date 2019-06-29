@@ -1,12 +1,12 @@
 {
-  "name": "防火",
+  "name": "Fire Protection",
   "icon": "minecraft:leather_chestplate",
   "category": "accelerate",
   "advancement": "pyrotech:slaked_lime",
   "pages": [
     {
       "type": "text",
-      "text": "当进行关于$(item)锻造炉$()和$(item)炉渣$()的工作时，你常常会烫伤。$(p)$(info) $(thing)皮甲$()可以涂上$(item)熟石灰$()来加强它的$(thing)防火效果$()。"
+      "text": "When working with a $(item)Bloomery$() and $(item)Slag$() it is common to get burned.$(p)$(info) $(thing)Leather Armor$() can be coated with $(item)Slaked Lime$() to increase its $(thing)Fire Protection$()."
     },
     {
       "type": "crafting",

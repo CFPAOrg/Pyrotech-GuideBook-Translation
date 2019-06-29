@@ -1,22 +1,22 @@
 {
-  "name": "骨头碎片&燧石碎片",
+  "name": "Shard, Bone & Flint",
   "icon": "pyrotech:material:11",
   "category": "gather",
   "pages": [
     {
       "type": "text",
-      "text": "$(item)骨碎片$()可以在挖掘$(item)化石矿$()时掉落。"
+      "text": "$(item)Bone Shards$() can be found by mining $(item)Fossil Ore."
     },
     {
       "type": "rrt_anvil_recipe",
       "recipe": "pyrotech:bone_shard_from_bone",
       "recipe2": "pyrotech:bone_shard_from_block",
-      "text": "$(item)骨碎片$()也可以用更大的骨头在$(item)砧台$()上敲出来。"
+      "text": "$(item)Bone Shards$() can be broken from larger pieces of bone on an $(item)Anvil$()."
     },
     {
       "type": "rt_anvil_recipe",
       "recipe": "pyrotech:flint_shard_from_flint",
-      "text": "$(item)燧石碎片$()可以用$(item)燧石$()在$(item)砧台$()上敲出来。$(p)$(item)燧石碎片$()也会在挖掘$(item)砂砾$()时掉落。$(info)越好的铲子掉落燧石的几率越大！"
+      "text": "$(item)Flint Shards$() can be broken from larger pieces of $(item)Flint$() on an $(item)Anvil$().$(p)$(item)Flint Shards$() can also be found by using a shovel to excavate $(item)Gravel$(). $(info) Higher tier shovels have a better chance of finding flint."
     },
     {
       "type": "relations",
