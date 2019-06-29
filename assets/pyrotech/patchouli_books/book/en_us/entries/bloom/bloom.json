@@ -1,5 +1,5 @@
 {
-  "name": "Bloom",
+  "name": "铁坯",
   "icon": "pyrotech:bloom",
   "category": "bloom_bloom",
   "advancement": "pyrotech:bloomery",
@@ -14,12 +14,12 @@
     {
       "type": "spotlight",
       "item": "pyrotech:bloom",
-      "text": "Metal is made by first smelting ore into a $(item)Bloom$() using a $(item)Bloomery$(), then using a $(thing)Hammer$() on the $(item)Bloom$().$(p)$(warning) Holding a $(item)Bloom$() with your bare hands will burn you.$(p)$(info) It is important to always handle a $(item)Bloom$() with $(thing)Tongs$()."
+      "text": "制作一些金属，需要先使用$(item)锻造炉$()将矿物烧制成$(item)铁坯$()，然后用$(thing)锤子$()敲击$(item)铁坯$()。$(p)$(warning) 只是用手不加保护地拿着$(item)铁坯$()肯定会烫伤你。$(p)$(info) 用一个$(thing)钳子$()来处理$(item)铁坯$()十分重要。"
     },
     {
       "type": "text",
-      "title": "Hammering a Bloom",
-      "text": "A $(item)Bloom$() can be hammered on the ground or on an $(thing)Anvil$().$(p)$(warning) Hammering a $(item)Bloom$() on the ground will cause it to pop into the world and likely break the block beneath it.$(p)$(warning) Hammering a $(item)Bloom$() may cause fires.$(p)$(info) Hammering a $(item)Bloom$() on an $(thing)Anvil$() is much safer."
+      "title": "敲击铁坯",
+      "text": "$(item)铁坯$()可以直接放在地上或者放在$(thing)砧台$()上敲击。$(p)$(warning) 在地上敲击$(item)铁坯$()会导致它弹入世界，并且可能会破坏下方的方块。$(p)$(warning) 敲击$(item)铁坯$()可能会产生火焰。$(p)$(info) 在$(thing)砧台$()上敲击$(item)铁坯$()看起来安全多了。$(p)$(italic)译者：一点都不安全！"
     },
     {
       "type": "image",
@@ -29,14 +29,14 @@
     },
     {
       "type": "text",
-      "title": "Hammer Power",
-      "text": "$(thing)Hammer Power$() is the measure of how effective a hammer is when hammering a $(item)Bloom$().$(p)$(info) $(thing)Hammer Power$() is affected by your distance from the $(item)Bloom$(). The closer you stand, the more power your hammer will have.$(p)$(warning) Hammering a $(item)Bloom$() will make you hungry. If your hammer blows are ineffective, eat."
+      "title": "锤力",
+      "text": "$(thing)锤力$()就是锤子敲击$(item)铁坯$()的力量。$(p)$(info) $(thing)锤力$()受到你与$(item)铁坯$()距离的影响。越靠近，越有力。$(p)$(warning) 敲击$(item)铁坯$()会让你感到饥饿，饿了是使不出力气的！"
     },
     {
       "type": "spotlight",
-      "title": "Efficiency",
+      "title": "效率",
       "item": "minecraft:enchanted_book{StoredEnchantments: [{lvl: 1, id: 32}]}",
-      "text": "$(info) Adding the $(item)Efficiency$() enchantment to a $(thing)Hammer$() will increase its $(thing)Hammer Power$()."
+      "text": "$(info) 将$(item)效率$()附魔在$(thing)锤子$()上，能够增加它的$(thing)锤力$()。"
     },
     {
       "type": "spotlight",
