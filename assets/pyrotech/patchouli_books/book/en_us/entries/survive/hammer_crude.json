@@ -1,5 +1,5 @@
 {
-  "name": "粗制锤子",
+  "name": "Hammer, Crude",
   "icon": "pyrotech:crude_hammer",
   "category": "survive",
   "advancement": "pyrotech:worktable",
@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:crude_hammer",
-      "text": "$(thing)锤子$()被用在$(item)工作桌$()和$(item)砧台$()上。$(p)$(info)$(item)简陋的锤$()是你能制作的最简单的锤子！"
+      "text": "$(thing)Hammers$() are used for crafting on the $(item)Worktable$() and $(item)Anvil$().$(p)$(info) The $(item)Crude Hammer$() is the simplest hammer you can make."
     },
     {
       "type": "relations",

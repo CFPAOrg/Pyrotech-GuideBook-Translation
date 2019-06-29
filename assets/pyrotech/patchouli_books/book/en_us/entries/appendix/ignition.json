@@ -1,11 +1,11 @@
 {
-  "name": "附录 A: 点火装置",
+  "name": "Appendix A: Ignition",
   "icon": "minecraft:paper",
   "category": "appendix",
   "pages": [
     {
       "type": "text",
-      "text": "以下条目是已经发现的点火装置。"
+      "text": "The following page contains a list of verified fire-starting devices."
     },
     {
       "type": "relations",

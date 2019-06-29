@@ -1,11 +1,11 @@
 {
-  "name": "粗制工具",
+  "name": "Tools, Crude",
   "icon": "pyrotech:crude_pickaxe",
   "category": "survive",
   "pages": [
     {
       "type": "text",
-      "text": "$(item)粗制工具$()用$(item)木棍$()和$(item)石块$()制成。$(p)$(info) 低端工具，比如$(item)粗制工具$()，与更好的工具相比，或许会收获较少的资源。"
+      "text": "$(item)Crude Tools$() can be crafted from $(item)Sticks$() and $(item)Rocks$()$(p)$(info) Low-tier tools, like $(item)Crude Tools$() may harvest inferior resources compared to their higher-tier counterparts."
     },
     {
       "type": "crafting",

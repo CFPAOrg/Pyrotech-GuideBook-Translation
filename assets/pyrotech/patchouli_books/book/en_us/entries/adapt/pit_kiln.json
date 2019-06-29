@@ -1,12 +1,12 @@
 {
-  "name": "坑窑",
+  "name": "Pit Kiln",
   "icon": "pyrotech:kiln_pit",
   "category": "adapt",
   "advancement": "pyrotech:dried_plant_fibers",
   "pages": [
     {
       "type": "text",
-      "text": "为了使用$(item)坑窑$()你需要一个$(item)坑窑$()（废话，不知道作者想表达什么），一个$(item)稻草$()制成的$(item)稻草捆$()，三个$(thing)原木$()以及一个$(l:appendix/ignition)点火装置$()。$(p)两个$(item)干燥的植物纤维$()可以被绑在一起来做$(item)稻草$()。"
+      "text": "To build and operate a $(item)Pit Kiln$() you will need a $(item)Pit Kiln$(), four $(item)Straw$(), a $(item)Straw Bale$(), three $(thing)Logs$(), and a $(l:appendix/ignition)verified fire-starter device$().$(p)Two clumps of $(item)Dried Plant Fibers$() can be tied together to make $(item)Straw$()."
     },
     {
       "type": "crafting",
@@ -22,11 +22,11 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:thatch",
-      "text": "$(info) $(item)稻草$()也可以通过晾干$(item)小麦$()来获得。"
+      "text": "$(info) $(item)Straw$() can also be created by drying $(item)Wheat$()."
     },
     {
       "type": "text",
-      "text": "使用$(item)坑窑$()需要以下几步：$(p)  $(l:adapt/pit_kiln#step_1)1. 放置坑窑$(/l)$(br)  $(l:adapt/pit_kiln#step_2)2. 添加原料$(/l)$(br)  $(l:adapt/pit_kiln#step_3)3. 放稻草捆$(/l)$(br)  $(l:adapt/pit_kiln#step_4)4. 添加原木$(/l)$(br)  $(l:adapt/pit_kiln#step_5)5. 点燃！$(/l)$(br)  $(l:adapt/pit_kiln#step_6)6. 等待...$(/l)$(p)你右边所看到的就是搭建$(item)坑窑$()的图示，后面的几页有更加详细的介绍。"
+      "text": "To use a $(item)Pit Kiln$(), follow these steps:$(p)  $(l:adapt/pit_kiln#step_1)1. Place Kiln$(/l)$(br)  $(l:adapt/pit_kiln#step_2)2. Add Ingredients$(/l)$(br)  $(l:adapt/pit_kiln#step_3)3. Add Straw Bale$(/l)$(br)  $(l:adapt/pit_kiln#step_4)4. Add Logs$(/l)$(br)  $(l:adapt/pit_kiln#step_5)5. Ignite$(/l)$(br)  $(l:adapt/pit_kiln#step_6)6. Wait$(/l)$(p)The facing page illustrates the construction of a $(item)Pit Kiln$() and the subsequent pages provide additional vital and fundamental details."
     },
     {
       "type": "image",
@@ -36,7 +36,7 @@
     },
     {
       "type": "image",
-      "title": "1. 放置坑窑",
+      "title": "1. Place Kiln",
       "anchor": "step_1",
       "images": [
         "pyrotech:textures/gui/book/illustration/pit_kiln_01.png"
@@ -44,11 +44,11 @@
     },
     {
       "type": "text",
-      "text": "首先，挖个洞，把你的$(item)坑窑$()放在底部。$(p)$(info) $(item)坑窑$()必须用泥土把底部和旁边的四个面包围，不能有易燃物质，上面需要裸露！"
+      "text": "First, dig a pit in the ground and place your $(item)Pit Kiln$() at the bottom.$(p)$(info) A $(item)Pit Kiln$() must be covered at all times on the bottom and all four sides by solid, non-flammable material; the top is left exposed."
     },
     {
       "type": "image",
-      "title": "2. 添加原料",
+      "title": "2. Add Ingredient",
       "anchor": "step_2",
       "images": [
         "pyrotech:textures/gui/book/illustration/pit_kiln_02.png"
@@ -56,29 +56,29 @@
     },
     {
       "type": "text",
-      "text": "然后，从上方添加你的原料到$(item)坑窑$()里。$(p)$(info) $(item)坑窑$()一次只能烧制一个物品。$(p)$(warning) 请注意，在2，3，4步的插图中，有两个放在$(item)坑窑$()旁边的$(item)草方块$()被移除了 - 移除它们只是为了让你看的更清晰，它们任然是需要的！"
+      "text": "Next, add your ingredient(s) to the top of the $(item)Pit Kiln$().$(p)$(info) A $(item)Pit Kiln$() can only hold one type of item.$(p)$(warning) Please note that in the illustrations for step two, three, and four, two $(item)Grass Blocks$() on the sides of the $(item)Pit Kiln$() have been removed - they are removed in the illustration for clarity and are still required."
     },
     {
       "type": "image",
-      "title": "3. 放稻草捆",
+      "title": "3. Add Straw Bale",
       "anchor": "step_3",
-      "text": " 接着，放入$(item)稻草捆$()。",
+      "text": " Next, add a $(item)Straw Bale$().",
       "images": [
         "pyrotech:textures/gui/book/illustration/pit_kiln_03.png"
       ]
     },
     {
       "type": "image",
-      "title": "4. 添加原木",
+      "title": "4. Add Three Logs",
       "anchor": "step_4",
-      "text": " 接下来，放入$(thing)原木$()。",
+      "text": " Next, add three $(thing)Logs$().",
       "images": [
         "pyrotech:textures/gui/book/illustration/pit_kiln_04.png"
       ]
     },
     {
       "type": "image",
-      "title": "5. 点燃",
+      "title": "5. Ignite",
       "anchor": "step_5",
       "images": [
         "pyrotech:textures/gui/book/illustration/pit_burn_01.png"
@@ -86,11 +86,11 @@
     },
     {
       "type": "text",
-      "text": "之后用任何$(l:appendix/ignition)点火装置$()来点燃它。$(p)$(info) 不像$(thing)碳窑$()，$(item)坑窑$()在烧制时上边需要裸露。"
+      "text": "Next, use any $(l:appendix/ignition)verified fire-starter device$() to ignite.$(p)$(info) Unlike a $(thing)Pit Burn$(), the $(item)Pit Kiln$() is left uncovered on top while it burns."
     },
     {
       "type": "image",
-      "title": "6. 等待",
+      "title": "6. Wait",
       "anchor": "step_6",
       "images": [
         "pyrotech:textures/gui/book/illustration/pit_kiln_05.png"
@@ -98,7 +98,7 @@
     },
     {
       "type": "text",
-      "text": "最后，等着。$(p)$(info) 当$(item)坑窑$()烧制时，它会一直保持上方的火焰。$(p)$(warning) 如果$(item)坑窑$()暴露在雨中，那么这次加工将会失败！"
+      "text": "Finally, wait.$(p)$(info) While a $(item)Pit Kiln$() is active, it will remain on fire.$(p)$(warning) If a $(item)Pit Kiln$() is exposed to rain during its operation, the process will fail."
     },
     {
       "type": "image",
@@ -108,7 +108,7 @@
     },
     {
       "type": "text",
-      "text": "当$(item)坑窑$()上方的火焰终于熄灭，在灰烬中挑选你的成品。$(p)$(warning) 因为使用$(item)坑窑$()的环境恶劣，所以有一定的几率会导致失败。"
+      "text": "When the fire on top of the $(item)Pit Kiln$() finally goes out, sift through the ash for the results.$(p)$(warning) Due to the crude nature of the $(item)Pit Kiln$(), there is a chance that items will fail to fire and instead produce a failed result."
     },
     {
       "type": "relations",

@@ -1,17 +1,17 @@
 {
-  "name": "锻造炉",
+  "name": "Bloomery",
   "icon": "pyrotech:bloomery",
   "category": "accelerate",
   "advancement": "pyrotech:refractory_brick",
   "pages": [
     {
       "type": "text",
-      "text": "$(item)锻造炉$()消耗燃料，将矿物烧制成$(item)坯$()。$(p)$(info) $(item)锻造炉$()中拥有的燃料越多，它的加工速度也就越快。$(p)$(info) 燃料的燃烧时间也会影响$(item)锻造炉$()的速度。$(p)$(info) $(item)风箱$()或$(item)机械风箱$()可以加速$(item)锻造炉$()。"
+      "text": "A $(item)Bloomery$() consumes fuel to smelt ore into $(item)Blooms$().$(p)$(info) The more fuel a $(item)Bloomery$() has, the faster it will operate.$(p)$(info) The fuel's burn time also affects the $(item)Bloomery's$() speed.$(p)$(info) A $(item)Bellows$() or $(item)Mechanical Bellows$() can accelerate a $(item)Bloomery$()."
     },
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/bloomery/bloomery",
-      "text": "$(item)锻造炉$()用$(item)耐火砖$()制成。"
+      "text": "A $(item)Bloomery$() is constructed using $(item)Refractory Blocks$()."
     },
     {
       "type": "image",
@@ -22,11 +22,11 @@
     },
     {
       "type": "text",
-      "text": "使用时，将矿物和燃料从$(item)锻造炉$()的上方放入，然后用$(l:appendix/ignition)点火装置$()从上方点燃。$(p)当上方的火焰熄灭，你就可以清理掉$(item)灰烬$()，取出$(item)坯$()了。$(p)$(info) $(item)灰烬$()需要使用铲子右键$(item)锻造炉$()的上方。$(p)$(warning) 记住，$(item)坯$()非常非常烫，用手拿是不可取的！"
+      "text": "To use, place ore and fuel in the top of the $(item)Bloomery$(), then ignite the top with a $(l:appendix/ignition)verified fire-starter device$().$(p)When the fire on top goes out, you can remove the $(item)Ash$() and $(item)Bloom$().$(p)$(info) To remove $(item)Ash$(), $(use) the top of the $(item)Bloomery$() with a shovel.$(p)$(warning) Remember, $(item)Blooms$() are hot - handling them can be dangerous."
     },
     {
       "type": "fuel_bloomery",
-      "text": "有些燃料在$(item)锻造炉$()中显得更有效率。",
+      "text": "Some fuel is more efficient when used in a $(item)Bloomery$().",
       "fuel": "minecraft:coal_block",
       "fuel2": "pyrotech:coal_coke_block",
       "fuel3": "pyrotech:living_tar"

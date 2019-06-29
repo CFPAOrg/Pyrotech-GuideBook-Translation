@@ -1,12 +1,12 @@
 {
-  "name": "石灰岩",
+  "name": "Limestone",
   "icon": "pyrotech:limestone",
   "category": "gather",
   "pages": [
     {
       "type": "spotlight",
       "item": "pyrotech:limestone",
-      "text": "$(item)石灰岩$()几乎能在任何地底找到。"
+      "text": "$(item)Limestone$() can be found almost everywhere underground."
     },
     {
       "type": "relations",

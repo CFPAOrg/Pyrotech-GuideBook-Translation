@@ -1,5 +1,5 @@
 {
-  "name": "弓钻",
+  "name": "Bow Drill",
   "icon": "pyrotech:bow_drill",
   "category": "innovate",
   "advancement": "pyrotech:stone_brick",
@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:ignition/bow_drill",
-      "text": "$(item)弓钻$()是一种$(l:appendix/ignition)点火装置$()。$(p)$(item)弓$()可以用$(item)线$()或$(item)耐用麻线$()制成。"
+      "text": "The $(item)Bow Drill$() is a $(l:appendix/ignition)verified fire-starter device$().$(p)A $(item)Bow$() can be crafted using $(item)String$() or $(item)Durable Twine$()."
     },
     {
       "type": "crafting",

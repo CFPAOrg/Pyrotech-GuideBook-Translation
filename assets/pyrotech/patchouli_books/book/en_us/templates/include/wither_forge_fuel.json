@@ -6,7 +6,7 @@
     },
     {
       "type": "text",
-      "text": "$(bold)#bloomery->iname#$()$(br)#modifier#% 效率",
+      "text": "$(bold)#bloomery->iname#$()$(br)#modifier#% efficiency",
       "x": 30, "y": -2
     }
   ]

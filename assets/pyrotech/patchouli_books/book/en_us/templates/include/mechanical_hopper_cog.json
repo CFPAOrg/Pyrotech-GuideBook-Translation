@@ -6,7 +6,7 @@
     },
     {
       "type": "text",
-      "text": "$(bold)#cog->iname#$()$(br)#items# item(s) / 圈",
+      "text": "$(bold)#cog->iname#$()$(br)#items# item(s) / cycle",
       "x": 30, "y": -2
     }
   ]

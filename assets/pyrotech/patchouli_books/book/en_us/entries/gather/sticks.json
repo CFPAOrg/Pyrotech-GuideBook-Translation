@@ -1,12 +1,12 @@
 {
-  "name": "木棍",
+  "name": "Sticks",
   "icon": "minecraft:stick",
   "category": "gather",
   "pages": [
     {
       "type": "crafting",
       "recipe": "pyrotech:stick",
-      "text": "敲打树叶或者用$(thing)树苗$()制作。"
+      "text": "Find sticks by breaking leaves or craft them yourself by peeling the smaller, inadequate appendages from a newborn $(thing)Sapling$()."
     }
   ]
 }

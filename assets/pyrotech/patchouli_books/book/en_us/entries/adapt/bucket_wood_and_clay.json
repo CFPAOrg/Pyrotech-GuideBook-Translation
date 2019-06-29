@@ -1,22 +1,22 @@
 {
-  "name": "木桶&粘土桶",
+  "name": "Bucket, Wood & Clay",
   "icon": "pyrotech:bucket_wood",
   "category": "adapt",
   "advancement": "pyrotech:worktable",
   "pages": [
     {
       "type": "text",
-      "text": "移动液体是水桶们唯一的，也是神圣的职责！"
+      "text": "Moving fluids from one location to another is the singular crowning achievement and principle use of a bucket."
     },
     {
       "type": "crafting",
       "recipe": "pyrotech:bucket/bucket_wood",
-      "text": "$(warning) $(item)木桶$()会漏水，而且遇热会坏掉！"
+      "text": "$(warning) The $(item)Wooden Bucket$() leaks and will break with hot fluids, such as lava."
     },
     {
       "type": "crafting",
       "recipe": "pyrotech:bucket/bucket_clay_unfired",
-      "text": "$(warning) $(item)粘土桶$()遇热会坏掉！"
+      "text": "$(warning) The $(item)Clay Bucket$() will break with hot fluids."
     },
     {
       "type": "rrt_pit_kiln_recipe_stone_kiln_recipe",

@@ -1,0 +1,48 @@
+{
+  "name": "采石包",
+  "icon": "pyrotech:bag_simple",
+  "category": "gather",
+  "advancement": "pyrotech:worktable",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "pyrotech:storage/bag_simple",
+      "recipe2": "pyrotech:storage/bag_durable"
+    },
+    {
+      "type": "text",
+      "text": "$(item)采石包$()可以存储大量的$(thing)石块$()。$(p)$(item)耐用采石包$()可以存储大量的$(thing)碎石头$()。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pyrotech:textures/gui/book/illustration/rock_bag_00.png"
+      ]
+    },
+    {
+      "type": "text",
+      "title": "In the World",
+      "text": "$(info) 当放置在世界中时，背包可以使用$(use)来打开和关闭。$(p)$(info) 背包打开时，你可以手动取出和存放物品。$(p)$(info) 物品可以在底部被提取（如漏斗）。"
+    },
+    {
+      "type": "text",
+      "title": "In Your Inventory",
+      "text": "$(info) To open or close a bag while holding it, ensure you are not targeting a block and $(sneak) + $(use).$(p)$(info) If you have an open bag in your hand or hotbar, it will auto-collect items you pick up.$(p)$(info) Auto-collected items will fill existing stacks in your inventory before filling a bag."
+    },
+    {
+      "type": "text",
+      "text": "$(info) Items in a bag can be transferred to an inventory, like a chest, with $(sneak) + $(use).$(p)$(info) If you $(sneak) + $(use) an open bag on a non-inventory block, the contents of the bag will spill into the world."
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "adapt/twine",
+        "gather/storage",
+        "innovate/twine_durable",
+        "innovate/storage_durable",
+        "survive/rocks",
+        "gather/stone_cobbled"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "name": "石头",
-  "description": "石头无处不在，所以是种很平常的材料。$(italic)这里的意思是不会带给你过多的惊喜。$()",
+  "name": "Stone",
+  "description": "While stone is ubiquitous, as a material it is quite unremarkable - $(italic)a word which here means not particularly interesting or surprising$().",
   "icon": "pyrotech:material:16",
   "parent": "innovate",
   "sortnum": 1
