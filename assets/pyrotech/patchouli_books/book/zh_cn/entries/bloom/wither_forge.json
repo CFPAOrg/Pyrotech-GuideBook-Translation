@@ -1,5 +1,5 @@
 {
-  "name": "Wither Forge",
+  "name": "凋灵锻造炉",
   "icon": "pyrotech:wither_forge",
   "category": "bloom",
   "advancement": "pyrotech:enter_the_nether",
@@ -7,11 +7,11 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/bloomery/wither_forge",
-      "text": "$(info) A $(item)Wither Forge$() can smelt up to three ores into one $(item)Bloom$()."
+      "text": "$(info) $(item)凋灵锻造炉$()一次可以熔化三个矿物，制成$(item)坯$()。"
     },
     {
       "type": "fuel_wither_forge",
-      "text": "Some fuel is more efficient when used in a $(item)Wither Forge$().",
+      "text": "有些燃料在$(item)凋灵锻造炉$()中表现更好。",
       "fuel": "minecraft:coal_block",
       "fuel2": "pyrotech:coal_coke_block",
       "fuel3": "pyrotech:living_tar"

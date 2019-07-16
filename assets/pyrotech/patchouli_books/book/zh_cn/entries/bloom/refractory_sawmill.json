@@ -1,5 +1,5 @@
 {
-  "name": "Refractory Sawmill",
+  "name": "耐火切割机",
   "icon": "pyrotech:brick_sawmill",
   "category": "bloom_refractory_machines",
   "advancement": "pyrotech:iron_ingot",
@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/machine/brick_sawmill",
-      "text": "A $(item)Refractory Sawmill$() can perform the same tasks as a $(item)Stone Sawmill$(), albeit with greater efficiency."
+      "text": "$(item)耐火切割机$()与$(item)石切割机$()类似，但有更好的效率。"
     },
     {
       "type": "relations",

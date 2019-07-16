@@ -1,12 +1,12 @@
 {
-  "name": "Tongs",
+  "name": "钳子",
   "icon": "pyrotech:tongs_iron",
   "category": "bloom_bloom",
   "advancement": "pyrotech:bloomery",
   "pages": [
     {
       "type": "text",
-      "text": "$(item)Tongs$() will allow you to safely handle $(item)Blooms$().$(p)$(info) To pick up a $(item)Bloom$(), $(use) the $(item)Bloom$() with $(item)Tongs$().$(p)$(info) $(item)Tongs$() held in either hand will pick up a $(item)Bloom$() when it enters your inventory.$(p)$(info) $(item)Tongs$() can be used with the $(item)Bloomery$() and $(item)Wither Forge$()."
+      "text": "$(item)钳子$()能让你安全的携带$(item)铁坯$()。$(p)$(info) 使用$(item)钳子$()右键$(item)铁坯$()即可将它钳起。$(p)$(info) 把$(item)钳子$()放在任意一只手中，当$(item)铁坯$()进入你的背包时，它会将它钳起。$(p)$(info) $(item)钳子$()可以直接钳起$(item)锻造炉$()和$(item)凋灵锻造炉$()中的铁坯。"
     },
     {
       "type": "crafting",

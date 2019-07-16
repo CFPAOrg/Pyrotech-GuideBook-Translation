@@ -1,5 +1,5 @@
 {
-  "name": "Mechanical Mulcher",
+  "name": "土壤疏松机",
   "icon": "pyrotech:mechanical_mulch_spreader",
   "category": "bloom_cog_machines",
   "advancement": "pyrotech:iron_ingot",
@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/machine/mechanical_mulch_spreader",
-      "text": "A $(item)Mechanical Mulcher$() uses a $(thing)Cog$() to spread $(item)Mulch$() within a range in front of the device.$(p)$(info) Each $(thing)Cog$() has a different amount and range that it will spread per cycle."
+      "text": "$(item)土壤疏松机$()使用$(thing)齿轮$()来将$(item)土壤改良剂$()散布到机器前方的一片耕地中。$(p)$(info) 不同的$(thing)齿轮$()不同的范围和速度。"
     },
     {
       "type": "mechanical_mulcher_cogs",
@@ -25,7 +25,7 @@
     },
     {
       "type": "text",
-      "text": "$(info) Regarding automation, mulch can be inserted into the top."
+      "text": "$(info) 关于自动化，土壤改良剂可以从机器上方输入。"
     },
     {
       "type": "relations",

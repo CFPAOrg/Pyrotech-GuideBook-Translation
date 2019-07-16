@@ -1,5 +1,5 @@
 {
-  "name": "Crafting Table",
+  "name": "工作台",
   "icon": "minecraft:crafting_table",
   "category": "bloom",
   "advancement": "pyrotech:iron_ingot",

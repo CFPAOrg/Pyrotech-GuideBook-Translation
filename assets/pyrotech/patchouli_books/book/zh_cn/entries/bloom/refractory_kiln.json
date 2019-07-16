@@ -1,5 +1,5 @@
 {
-  "name": "Refractory Kiln",
+  "name": "耐火窑",
   "icon": "pyrotech:brick_kiln",
   "category": "bloom_refractory_machines",
   "advancement": "pyrotech:iron_ingot",
@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/machine/brick_kiln",
-      "text": "A $(item)Refractory Kiln$() can perform the same tasks as a $(item)Stone Kiln$(), albeit with greater efficiency."
+      "text": "$(item)耐火窑$()与$(item)石窑$()类似，但有更好的效率。"
     },
     {
       "type": "relations",

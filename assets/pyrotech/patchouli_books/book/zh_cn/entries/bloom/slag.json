@@ -1,12 +1,12 @@
 {
-  "name": "Slag",
+  "name": "炉渣",
   "icon": "pyrotech:slag",
   "category": "bloom_bloom",
   "advancement": "pyrotech:bloomery",
   "pages": [
     {
       "type": "text",
-      "text": "$(item)Slag$() is a byproduct of smelting ore in a $(item)Bloomery$() and hammering a $(item)Bloom$().$(p)$(info) $(item)Slag$() that contains ore can be compacted and reprocessed in a $(item)Bloomery$()."
+      "text": "$(item)炉渣$()是$(item)锻造炉$()和敲击$(item)铁坯$()的副产物。$(p)$(info) 含有矿物的$(item)炉渣$()可以压实后再用$(item)锻造炉$()加工。"
     },
     {
       "type": "rrr_compacting_bin_recipe",
@@ -21,7 +21,7 @@
       "type": "rt_stone_kiln_recipe",
       "header": true,
       "recipe": "pyrotech:slag_glass",
-      "text": "A $(item)Slag Heap$() that does not contain any ore can be fired to create $(item)Slag Glass$()."
+      "text": "没有杂质的$(item)炉渣堆$()可以用于制作$(item)炉渣玻璃$()。"
     },
     {
       "type": "relations",
