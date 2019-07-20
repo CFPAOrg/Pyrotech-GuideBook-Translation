@@ -11,12 +11,12 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:bucket/bucket_wood",
-      "text": "$(warning) $(item)木桶$()会漏水，而且遇热会坏掉！"
+      "text": "$(warning_cn) $(item)木桶$()会漏水，而且遇热会坏掉！"
     },
     {
       "type": "crafting",
       "recipe": "pyrotech:bucket/bucket_clay_unfired",
-      "text": "$(warning) $(item)粘土桶$()遇热会坏掉！"
+      "text": "$(warning_cn) $(item)粘土桶$()遇热会坏掉！"
     },
     {
       "type": "rrt_pit_kiln_recipe_stone_kiln_recipe",

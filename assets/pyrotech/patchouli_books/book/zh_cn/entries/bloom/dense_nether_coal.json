@@ -8,7 +8,7 @@
       "type": "spotlight",
       "item": "pyrotech:dense_nether_coal_ore",
       "link_recipe": true,
-      "text": "$(item)下界致密煤矿$()能在地狱找到。$(p)$(info) 它可以使用$(thing)钻石工具$()采集。"
+      "text": "$(item)下界致密煤矿$()能在地狱找到。$(p)$(info_cn) 它可以使用$(thing)钻石工具$()采集。"
     }
   ]
 }

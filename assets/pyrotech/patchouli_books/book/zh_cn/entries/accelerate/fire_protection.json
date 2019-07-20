@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "当进行关于$(item)锻造炉$()和$(item)炉渣$()的工作时，你常常会烫伤。$(p)$(info) $(thing)皮甲$()可以涂上$(item)熟石灰$()来加强它的$(thing)防火效果$()。"
+      "text": "当进行关于$(item)锻造炉$()和$(item)炉渣$()的工作时，你常常会烫伤。$(p)$(info_cn) $(thing)皮甲$()可以涂上$(item)熟石灰$()来加强它的$(thing)防火效果$()。"
     },
     {
       "type": "crafting",

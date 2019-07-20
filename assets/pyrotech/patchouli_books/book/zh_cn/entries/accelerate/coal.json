@@ -15,7 +15,7 @@
     {
       "type": "spotlight",
       "item": "minecraft:coal_ore",
-      "text": "$(info) $(item)煤矿$()可以被挖掘成$(item)煤炭碎片$()。$(p)$(info) 使用$(thing)铁质工具$()时，可以将$(item)煤矿$()挖掘成$(item)煤炭$()。"
+      "text": "$(info_cn) $(item)煤矿$()可以被挖掘成$(item)煤炭碎片$()。$(p)$(info_cn) 使用$(thing)铁质工具$()时，可以将$(item)煤矿$()挖掘成$(item)煤炭$()。"
     },
     {
       "type": "rrt_mechanical_compactor_recipe",
@@ -34,7 +34,7 @@
       "type": "spotlight",
       "item": "pyrotech:dense_coal_ore",
       "link_recipe": true,
-      "text": "$(item)致密煤矿$()常常在很深的地底，在$(item)煤矿$()的包围下出现。$(p)$(info) 它需要用$(thing)铁质工具$()采集。"
+      "text": "$(item)致密煤矿$()常常在很深的地底，在$(item)煤矿$()的包围下出现。$(p)$(info_cn) 它需要用$(thing)铁质工具$()采集。"
     },
     {
       "type": "relations",

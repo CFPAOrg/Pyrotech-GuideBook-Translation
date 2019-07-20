@@ -15,12 +15,12 @@
     {
       "type": "text",
       "title": "Usage",
-      "text": "使用一个$(thing)燃烧类机器$()，将原料放在上方，将燃料放在底部，然后用$(l:appendix/ignition)点火装置$()点燃燃料。$(p)$(info) $(thing)燃烧类机器$()可以用水来节约燃料。（指浇灭后，不再继续燃烧）"
+      "text": "使用一个$(thing)燃烧类机器$()，将原料放在上方，将燃料放在底部，然后用$(l:appendix/ignition)点火装置$()点燃燃料。$(p)$(info_cn) $(thing)燃烧类机器$()可以用水来节约燃料。（指浇灭后，不再继续燃烧）"
     },
     {
       "type": "text",
       "title": "Automation",
-      "text": "$(info) Regarding automation, input ingredients are inserted into the top, or top sides, of the device, fuel is inserted into the bottom sides, and output items are extracted from the bottom."
+      "text": "$(info_cn) Regarding automation, input ingredients are inserted into the top, or top sides, of the device, fuel is inserted into the bottom sides, and output items are extracted from the bottom."
     },
     {
       "type": "image",

@@ -12,7 +12,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:storage/shelf_durable",
-      "text": "$(item)耐用架子$()能比$(item)架子$()存的更多。$(p)$(info) $(item)耐用架子$()可以放得靠前一个，也可以靠后一点。"
+      "text": "$(item)耐用架子$()能比$(item)架子$()存的更多。$(p)$(info_cn) $(item)耐用架子$()可以放得靠前一个，也可以靠后一点。"
     },
     {
       "type": "crafting",

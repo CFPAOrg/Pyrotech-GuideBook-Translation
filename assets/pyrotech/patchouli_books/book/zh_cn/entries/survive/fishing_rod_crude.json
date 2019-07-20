@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:tool/crude_fishing_rod",
-      "text": "$(info) 鱼咬钩的概率会随着耐久的降低而增加。"
+      "text": "$(info_cn) 钓鱼竿损坏的概率会随着耐久的降低而增加。"
     },
     {
       "type": "relations",

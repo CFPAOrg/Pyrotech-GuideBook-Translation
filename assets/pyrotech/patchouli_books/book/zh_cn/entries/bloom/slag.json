@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)炉渣$()是$(item)锻造炉$()和敲击$(item)铁坯$()的副产物。$(p)$(info) 含有矿物的$(item)炉渣$()可以压实后再用$(item)锻造炉$()加工。"
+      "text": "$(item)炉渣$()是$(item)锻造炉$()和敲击$(item)铁坯$()的副产物。$(p)$(info_cn) 含有矿物的$(item)炉渣$()可以压实后再用$(item)锻造炉$()加工。"
     },
     {
       "type": "rrr_compacting_bin_recipe",

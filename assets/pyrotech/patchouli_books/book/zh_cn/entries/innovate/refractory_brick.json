@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "制作$(item)耐火砖$()，你需要先制作一些$(item)燧石粘土$()：$(p)1. 首先，捣碎$(item)燧石碎片$()来制作$(item)粉碎的燧石$().$(p)2. 然后，融化一些$(item)粘土$()变成$(item)液态粘土$().$(p)3. 最后把$(item)粉碎的燧石$()浸泡在$(item)液态粘土$()中，来制作$(item)燧石粘土$()。"
+      "text": "制作$(item)耐火砖$()，你需要先制作一些$(item)燧石粘土$()：$(p)1. 首先，捣碎$(item)燧石碎片$()来制作$(item)粉碎的燧石$()。$(p)2. 然后，融化一些$(item)粘土$()变成$(item)液态粘土$()。$(p)3. 最后把$(item)粉碎的燧石$()浸泡在$(item)液态粘土$()中，来制作$(item)燧石粘土$()。"
     },
     {
       "type": "rrr_anvil_recipe_stone_crucible_recipe_soaking_pot_recipe",

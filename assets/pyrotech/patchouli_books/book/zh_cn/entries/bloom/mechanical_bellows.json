@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/machine/mechanical_bellows",
-      "text": "$(info) 一个$(item)机械风箱$()加上一个$(thing)齿轮$()就能让三个$(thing)燃烧类机器$()加速。"
+      "text": "$(info_cn) 一个$(item)机械风箱$()加上一个$(thing)齿轮$()就能让三个$(thing)燃烧类机器$()加速。"
     },
     {
       "type": "image",

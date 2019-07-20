@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/machine/bellows",
-      "text": "$(info) 对着$(thing)燃烧类机器$()或者$(item)锻造炉$()放置$(item)风箱$()，在它上面跳，加强空气流动，加速机器速度。"
+      "text": "$(info_cn) 对着$(thing)燃烧类机器$()或者$(item)锻造炉$()放置$(item)风箱$()，在它上面跳，加强空气流动，加速机器速度。"
     },
     {
       "type": "image",

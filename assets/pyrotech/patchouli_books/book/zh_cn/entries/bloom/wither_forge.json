@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/bloomery/wither_forge",
-      "text": "$(info) $(item)凋灵锻造炉$()一次可以熔化三个矿物，制成$(item)坯$()。"
+      "text": "$(info_cn) $(item)凋灵锻造炉$()一次可以熔化三个矿物，制成$(item)坯$()。"
     },
     {
       "type": "fuel_wither_forge",

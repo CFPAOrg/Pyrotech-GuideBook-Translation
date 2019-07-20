@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(thing)耐火窑$()的制作过程和$(thing)炭窑$()类似，不同的是，包围耐火窑的方块必须是耐火材料。$(p)$(warning) 先熟悉$(thing)炭窑$()的工作方式，再来接触$(thing)耐火窑$()！"
+      "text": "$(thing)耐火窑$()的制作过程和$(thing)炭窑$()类似，不同的是，包围耐火窑的方块必须是耐火材料。$(p)$(warning_cn) 先熟悉$(thing)炭窑$()的工作方式，再来接触$(thing)耐火窑$()！"
     },
     {
       "type": "crafting",
@@ -21,12 +21,12 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/refractory/tar_collector_brick",
-      "text": "$(item)耐火收集器$()是一种耐火材料。$(p)$(info) 这种收集器可以储存热液体，比如岩浆。"
+      "text": "$(item)耐火收集器$()是一种耐火材料。$(p)$(info_cn) 这种收集器可以储存热液体，比如岩浆。"
     },
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/refractory/tar_drain_brick",
-      "text": "$(item)耐火排液口$()是一种耐火材料。$(p)$(info) 这种排液口可以储存热液体，比如岩浆。"
+      "text": "$(item)耐火排液口$()是一种耐火材料。$(p)$(info_cn) 这种排液口可以储存热液体，比如岩浆。"
     },
     {
       "type": "relations",

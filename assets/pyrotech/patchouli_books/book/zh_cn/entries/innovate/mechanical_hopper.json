@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/machine/mechanical_hopper",
-      "text": "$(item)机械漏斗$()将上方的物品转移到下方。$(p)$(info) 不同的齿轮在每一工作周期传输不同的数量的物品。"
+      "text": "$(item)机械漏斗$()将上方的物品转移到下方。$(p)$(info_cn) 不同的齿轮在每一工作周期传输不同的数量的物品。"
     },
     {
       "type": "mechanical_hopper_cogs",
